@@ -1,4 +1,5 @@
 ```
-## Muhammad Ryamizard Reyopa Sakti
-## TI 22 A2
+Muhammad Ryamizard Reyopa Sakti
+TI 22 A2
 ```
+##INDEX
